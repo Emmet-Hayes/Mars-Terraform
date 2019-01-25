@@ -1,0 +1,24 @@
+﻿  Planet.cpp
+c:\users\emmet hayes\documents\visual studio 2017\projects\marsterraform\marsterraform\globalfuncs.h(43): warning C4091: 'static ': ignored on left of 'GlobalFuncs' when no variable is declared
+c:\users\emmet hayes\documents\visual studio 2017\projects\marsterraform\marsterraform\globalfuncs.h(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\emmet hayes\documents\visual studio 2017\projects\marsterraform\marsterraform\planet.cpp(642): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\emmet hayes\documents\visual studio 2017\projects\marsterraform\marsterraform\planet.cpp(660): warning C4244: '+=': conversion from 'double' to 'unsigned short', possible loss of data
+c:\users\emmet hayes\documents\visual studio 2017\projects\marsterraform\marsterraform\planet.cpp(682): warning C4244: '+=': conversion from 'double' to 'unsigned short', possible loss of data
+c:\users\emmet hayes\documents\visual studio 2017\projects\marsterraform\marsterraform\planet.cpp(683): warning C4244: '+=': conversion from 'double' to 'unsigned short', possible loss of data
+c:\users\emmet hayes\documents\visual studio 2017\projects\marsterraform\marsterraform\planet.cpp(688): warning C4804: '+=': unsafe use of type 'bool' in operation
+c:\users\emmet hayes\documents\visual studio 2017\projects\marsterraform\marsterraform\planet.cpp(689): warning C4244: '+=': conversion from 'double' to 'short', possible loss of data
+c:\users\emmet hayes\documents\visual studio 2017\projects\marsterraform\marsterraform\planet.cpp(692): warning C4244: '+=': conversion from 'double' to 'short', possible loss of data
+c:\users\emmet hayes\documents\visual studio 2017\projects\marsterraform\marsterraform\planet.cpp(695): warning C4244: '+=': conversion from 'double' to 'short', possible loss of data
+c:\users\emmet hayes\documents\visual studio 2017\projects\marsterraform\marsterraform\planet.cpp(792): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+c:\users\emmet hayes\documents\visual studio 2017\projects\marsterraform\marsterraform\planet.cpp(796): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+c:\users\emmet hayes\documents\visual studio 2017\projects\marsterraform\marsterraform\planet.cpp(800): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+  Generating Code...
+  Compiling...
+  TerraformMain.cpp
+c:\users\emmet hayes\documents\visual studio 2017\projects\marsterraform\marsterraform\globalfuncs.h(43): warning C4091: 'static ': ignored on left of 'GlobalFuncs' when no variable is declared
+c:\users\emmet hayes\documents\visual studio 2017\projects\marsterraform\marsterraform\globalfuncs.h(12): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Moon.cpp
+  MarsTerraform.vcxproj -> C:\Users\Emmet Hayes\Documents\Visual Studio 2017\Projects\MarsTerraform\Debug\MarsTerraform.exe
+  MarsTerraform.vcxproj -> C:\Users\Emmet Hayes\Documents\Visual Studio 2017\Projects\MarsTerraform\Debug\MarsTerraform.pdb (Partial PDB)
